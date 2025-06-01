@@ -14,7 +14,7 @@ while valid != 1:
     print('3. Triangle')
     print('4. Circle')
 
-    print('\nWhich shape: ')
+    print('\nWhich shape1: ')
 
     answer = int(input())
 
